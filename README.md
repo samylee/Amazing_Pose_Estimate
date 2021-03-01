@@ -19,6 +19,6 @@ or:    Amazing_Pose_Estimate.exe 256 video 0  (for usbcam)
 | any resolution  | 256 | 30ms/33.3 |
 | any resolution  | 368 | 60ms/16.6 |
 # Example result
-![image](https://github.com/samylee/Amazing_Pose_Estimate/blob/main/results/0.jpg)
+![](results/0.jpg)
 # Reference
 https://blog.csdn.net/samylee
